@@ -60,8 +60,7 @@ get_header();
 
                 <div class="home__image">
 
-                    <img src="<?php echo get_template_directory_uri(  );?> /img/Developer.webp" class="home__img"
-                        alt="">
+                    <img src="<?php echo get_template_directory_uri(  );?>/img/Developer.webp" class="home__img" alt="">
 
                     <div class="home__shadow"></div>
 
@@ -169,7 +168,7 @@ get_header();
 
                 <div class="about__image">
 
-                    <img src="<?php echo get_template_directory_uri(  );?> /img/Dev.webp" alt="" class="about__img">
+                    <img src="<?php echo get_template_directory_uri(  );?>/img/Dev.webp" alt="" class="about__img">
 
                     <div class="about-shadow"></div>
 
