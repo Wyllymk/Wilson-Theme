@@ -223,7 +223,7 @@ get_header();
 
 
 
-                    <a href="https://www.linkedin.com/in/wilson-mbuthia-k/" class="button__ghost">
+                    <a href="https://www.linkedin.com/in/wilson-mbuthia-k/" target="_blank" class="button__ghost">
 
                         <i class="fa-brands fa-linkedin"></i>
 
@@ -413,7 +413,7 @@ get_header();
 
 
 
-                    <a href="https://dejavutechkenya.com" class="projects__button button">
+                    <a href="https://dejavutechkenya.com" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -447,7 +447,7 @@ get_header();
                 <div class="projects__buttons">
 
 
-                    <a href="https://dejavutechkenya.com" class="projects__link">
+                    <a href="https://dejavutechkenya.com" target="_blank" class="projects__link">
 
                         <i class="fa-solid fa-globe"></i>View
 
@@ -467,7 +467,7 @@ get_header();
 
 
 
-                    <a href="https://faceshop254.com" class="projects__button button">
+                    <a href="https://faceshop254.com" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -502,7 +502,7 @@ get_header();
                 <div class="projects__buttons">
 
 
-                    <a href="https://faceshop254.com" class="projects__link">
+                    <a href="https://faceshop254.com" target="_blank" class="projects__link">
 
                         <i class="fa-solid fa-globe"></i>View
 
@@ -522,7 +522,7 @@ get_header();
 
 
 
-                    <a href="https://gathathiiniboyshighschool.sc.ke" class="projects__button button">
+                    <a href="https://gathathiiniboyshighschool.sc.ke" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -555,7 +555,7 @@ get_header();
 
                 <div class="projects__buttons">
 
-                    <a href="https://github.com/Wyllymk/Gathathi-ini" class="projects__link">
+                    <a href="https://github.com/Wyllymk/Gathathi-ini" target="_blank" class="projects__link">
 
                         <i class="fa-brands fa-github"></i>View
 
@@ -563,7 +563,7 @@ get_header();
 
 
 
-                    <a href="https://gathathiiniboyshighschool.sc.ke" class="projects__link">
+                    <a href="https://gathathiiniboyshighschool.sc.ke" target="_blank" class="projects__link">
 
                         <i class="fa-solid fa-globe"></i>View
 
@@ -583,7 +583,7 @@ get_header();
 
 
 
-                    <a href="https://nyericlub.co.ke" class="projects__button button">
+                    <a href="https://nyericlub.co.ke" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -616,7 +616,7 @@ get_header();
 
                 <div class="projects__buttons">
 
-                    <a href="https://github.com/Wyllymk/nyeri_bootscore" class="projects__link">
+                    <a href="https://github.com/Wyllymk/nyeri_bootscore" target="_blank" class="projects__link">
 
                         <i class="fa-brands fa-github"></i>View
 
@@ -642,7 +642,7 @@ get_header();
 
 
 
-                    <a href="https://aegeusinspections.com" class="projects__button button">
+                    <a href="https://aegeusinspections.com" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -675,7 +675,7 @@ get_header();
 
                 <div class="projects__buttons">
 
-                    <a href="https://aegeusinspections.com" class="projects__link">
+                    <a href="https://aegeusinspections.com" target="_blank" class="projects__link">
 
                         <i class="fa-solid fa-globe"></i>View
 
@@ -695,7 +695,7 @@ get_header();
 
 
 
-                    <a href="https://aegeusgroup.com" class="projects__button button">
+                    <a href="https://aegeusgroup.com" target="_blank" class="projects__button button">
 
                         <i class="fa-solid fa-up-right-from-square"></i>
 
@@ -729,7 +729,7 @@ get_header();
                 <div class="projects__buttons">
 
 
-                    <a href="https://aegeusgroup.com" class="projects__link">
+                    <a href="https://aegeusgroup.com" target="_blank" class="projects__link">
 
                         <i class="fa-solid fa-globe"></i>View
 
@@ -842,7 +842,7 @@ get_header();
 
 
 
-                        <a href="https://github.com/Wyllymk" class="contact__social-link" target="blank">
+                        <a href="https://github.com/Wyllymk" class="contact__social-link" target="_blank">
 
                             <i class="fa-brands fa-github"></i>
 
