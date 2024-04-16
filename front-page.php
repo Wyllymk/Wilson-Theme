@@ -788,7 +788,7 @@ get_header();
                 </h2>
 
                 <div>
-                    <?php echo do_shortcode( '[forminator_form id="6"]' ); ?>
+                    <?php echo do_shortcode( '[forminator_form id="8"]' ); ?>
                 </div>
 
 
