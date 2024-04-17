@@ -409,7 +409,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="01.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Dejavu.jpg" alt="Dejavu Technologies"
+                        class="project__img">
 
 
 
@@ -463,7 +464,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="02.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Faceshop.jpg" alt="Faceshop 254"
+                        class="project__img">
 
 
 
@@ -518,7 +520,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="03.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Gathathi-ini.jpg" alt="Gathathi-ini Boys"
+                        class="project__img">
 
 
 
@@ -579,7 +582,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="04.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Nyeri-Club.jpg" alt="Nyeri Club"
+                        class="project__img">
 
 
 
@@ -638,7 +642,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="06.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Aegeus-Inspections.jpg"
+                        alt="Aegeus Inspections" class="project__img">
 
 
 
@@ -691,7 +696,8 @@ get_header();
 
                 <div class="projects__image">
 
-                    <img src="05.png" alt="" class="project__img">
+                    <img src="<?php echo get_template_directory_uri();?>/img/Aegeus-Group.jpg" alt="Aegeus Group"
+                        class="project__img">
 
 
 

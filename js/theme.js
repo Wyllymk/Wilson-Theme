@@ -104,30 +104,30 @@ window.addEventListener("scroll", scrollHeader);
 
 /*=============== EMAIL JS ===============*/
 
-// const contactForm = document.getElementById("contact-form"),
-//   contactMessage = document.getElementById("contact-message");
+const contactForm = document.getElementById("contact-form"),
+  contactMessage = document.getElementById("contact-message");
 
-// const sendEmail = (e) => {
-//   e.preventDefault();
+const sendEmail = (e) => {
+  e.preventDefault();
 
-//   emailjs.sendForm("service_tvvulfc", "template_b0gi1kf", "#contact-form", "Kl_bohtXa0D9WQl-x").then(
-//     () => {
-//       contactMessage.textContent = "Message Sent Successfully ✅";
+  emailjs.sendForm("service_tvvulfc", "template_b0gi1kf", "#contact-form", "Kl_bohtXa0D9WQl-x").then(
+    () => {
+      contactMessage.textContent = "Message Sent Successfully ✅";
 
-//       setTimeout(() => {
-//         contactMessage.textContent = "";
-//       }, 5000);
+      setTimeout(() => {
+        contactMessage.textContent = "";
+      }, 5000);
 
-//       contactForm.reset();
-//     },
+      contactForm.reset();
+    },
 
-//     () => {
-//       contactMessage.textContent = "Message Not Sent (Service Error) ❌";
-//     }
-//   );
-// };
+    () => {
+      contactMessage.textContent = "Message Not Sent (Service Error) ❌";
+    }
+  );
+};
 
-// contactForm.addEventListener("submit", sendEmail);
+contactForm.addEventListener("submit", sendEmail);
 
 /*=============== SHOW SCROLL UP ===============*/
 
