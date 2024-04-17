@@ -1090,15 +1090,6 @@ img {
   .contact__data .section__title-2 {
     transform: translateX(0);
   }
-
-  #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    // background-color: black;
-    // opacity: 0.3;
-  }
 }
 
 /* For small/medium devices */
@@ -1125,15 +1116,6 @@ img {
 
   .contact__data .section__title-2 {
     transform: translateX(0);
-  }
-
-  #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    // background-color: black;
-    // opacity: 0.3;
   }
 }
 
@@ -1176,15 +1158,6 @@ img {
   .contact__social-description-2 {
     color: var(--title-color);
   }
-
-  #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    // background-color: black;
-    // opacity: 0.3;
-  }
 }
 
 @media screen and (min-width: 768px) {
@@ -1194,15 +1167,6 @@ img {
 
   .projects__container {
     grid-template-columns: repeat(2, 350px);
-  }
-
-  #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    // background-color: black;
-    // opacity: 0.3;
   }
 }
 
@@ -1279,15 +1243,6 @@ img {
 
   .nav__link-button::after {
     background-color: transparent;
-  }
-
-  #canvas {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    // background-color: black;
-    // opacity: 0.3;
   }
 
   .home__container {

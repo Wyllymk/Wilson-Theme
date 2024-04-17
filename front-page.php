@@ -44,7 +44,7 @@ get_header();
 
     <section class="home section" id="home">
 
-        <canvas id="canvas"></canvas>
+        <div id="snow" data-count="200"></div>
 
         <div class="home__container container grid">
 
