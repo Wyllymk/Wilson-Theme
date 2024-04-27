@@ -121,7 +121,7 @@
 
                     <li class="nav__item">
 
-                        <a href="<?php echo get_template_directory_uri(  );?>/img/Wilson Resume.pdf"
+                        <a rel="nofollow" href="<?php echo get_template_directory_uri(  );?>/img/Wilson Resume.pdf"
                             class="nav__link nav__link-button">Resume</a>
 
                     </li>
