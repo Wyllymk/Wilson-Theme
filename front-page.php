@@ -152,8 +152,6 @@ get_header();
 
     <section class="about section" id="about">
 
-        <canvas id="canvas"></canvas>
-
         <div class="about__container container grid">
 
             <h2 class="section__title-1">
