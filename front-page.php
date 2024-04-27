@@ -102,6 +102,14 @@ get_header();
 
                     </a>
 
+                    <a rel="nofollow"
+                        href="https://wa.me/+254703639230?text=I'm%20looking%20for%20a%20WordPress%20developer"
+                        target="_blank" class="home__social-link">
+
+                        <i class="fa-brands fa-whatsapp"></i>
+
+                    </a>
+
                 </div>
 
             </div>
@@ -849,6 +857,14 @@ get_header();
                         <a href="https://github.com/Wyllymk" class="contact__social-link" target="_blank">
 
                             <i class="fa-brands fa-github"></i>
+
+                        </a>
+
+                        <a rel="nofollow"
+                            href="https://wa.me/+254703639230?text=I'm%20looking%20for%20a%20WordPress%20developer"
+                            target="_blank" class="home__social-link">
+
+                            <i class="fa-brands fa-whatsapp"></i>
 
                         </a>
 
