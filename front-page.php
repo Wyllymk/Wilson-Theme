@@ -352,17 +352,12 @@ get_header();
 
 
 
-                    <h2 class="services__title">Landing Pages</h2>
+                    <h2 class="services__title">Plugin Development</h2>
 
                     <p class="services__description">
 
-                        Specializing in the creation of custom landing pages
-
-                        meticulously crafted to align seamlessly with your unique specifications,
-
-                        ensuring a tailored and compelling
-
-                        digital presence for your brand or product
+                        I specialize in creating custom plugins for clients, proficient in PHP, JavaScript, and MySQL,
+                        seamlessly integrated to enhance WordPress functionality.
 
                     </p>
 
@@ -372,25 +367,45 @@ get_header();
 
         </div>
 
-        <div class="container d-flex justify-content-between align-items-center">
+        <div class="container d-md-flex flex-wrap justify-content-between align-items-center d-none">
             <img alt="HTML" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
                 src="<?php echo get_template_directory_uri(  );?>/img/html-5.008cf296.svg">
             <img alt="SCSS" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
                 src="<?php echo get_template_directory_uri(  );?>/img/scss.98aab7f4.svg">
             <img alt="Tailwind" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/tailwind-css.41e68952.svg">
+                src="<?php echo get_template_directory_uri();?>/img/tailwind-css.41e68952.svg">
             <img alt="JavaScript" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/javascript.bf9de660.svg">
+                src="<?php echo get_template_directory_uri();?>/img/javascript.bf9de660.svg">
             <img alt="PHP" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/php.a1592ac5.svg">
+                src="<?php echo get_template_directory_uri();?>/img/php.a1592ac5.svg">
             <img alt="MySQL" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/mysql.c01bedfc.svg">
+                src="<?php echo get_template_directory_uri();?>/img/mysql.c01bedfc.svg">
             <img alt="Github" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/github.93f8e2ad.svg">
+                src="<?php echo get_template_directory_uri();?>/img/github.93f8e2ad.svg">
             <img alt="AWS" loading="lazy" decoding="async" data-img="fill" height="50" width="50"
-                src="<?php echo get_template_directory_uri(  );?>/img/aws.a08e83b4.svg">
+                src="<?php echo get_template_directory_uri();?>/img/aws.a08e83b4.svg">
             <img alt="WordPress" loading="lazy" decoding="async" data-img="fill" style="height:40px;"
-                src="<?php echo get_template_directory_uri(  );?>/img/icons8-wordpress-94.png">
+                src="<?php echo get_template_directory_uri();?>/img/icons8-wordpress-94.png">
+        </div>
+        <div class="container d-flex flex-wrap justify-content-between align-items-center mx-2 d-md-none">
+            <img alt="HTML" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri(  );?>/img/html-5.008cf296.svg">
+            <img alt="SCSS" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri(  );?>/img/scss.98aab7f4.svg">
+            <img alt="Tailwind" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/tailwind-css.41e68952.svg">
+            <img alt="JavaScript" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/javascript.bf9de660.svg">
+            <img alt="PHP" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/php.a1592ac5.svg">
+            <img alt="MySQL" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/mysql.c01bedfc.svg">
+            <img alt="Github" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/github.93f8e2ad.svg">
+            <img alt="AWS" loading="lazy" decoding="async" data-img="fill" height="30" width="30"
+                src="<?php echo get_template_directory_uri();?>/img/aws.a08e83b4.svg">
+            <img alt="WordPress" loading="lazy" decoding="async" data-img="fill" style="height:30px;"
+                src="<?php echo get_template_directory_uri();?>/img/icons8-wordpress-94.png">
         </div>
 
     </section>

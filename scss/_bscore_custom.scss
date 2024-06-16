@@ -1161,6 +1161,11 @@ img {
 }
 
 @media screen and (min-width: 768px) {
+  .tech-icons {
+    width: 50px;
+    height: 50px;
+  }
+
   .services__container {
     grid-template-columns: repeat(2, 250px);
   }
@@ -1172,6 +1177,10 @@ img {
 
 /* For large devices */
 @media screen and (min-width: 1150px) {
+  .tech-icons {
+    width: 50px;
+    height: 50px;
+  }
   .container {
     margin-inline: auto;
   }
