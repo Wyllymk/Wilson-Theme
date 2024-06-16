@@ -411,7 +411,6 @@ get_header();
     </section>
 
 
-
     <!--==================== PROJECTS ====================-->
 
     <section class="projects section" id="projects">
